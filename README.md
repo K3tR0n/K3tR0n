@@ -9,11 +9,6 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm **Yunus Emre (K3tr0n)**
-- 🎓 Graduate of Karabük TOBB Vocational School (Computer Programming)
-- 🌱 I’m improving my skills in C++, C#, Python, Java, and PHP
-- 📢 Contact me: `yunusemreoflaz@hotmail.com` 
-
 I am a passionate backend developer who loves learning, researching, and continuously improving myself. I always strive to deliver the best possible results in my work.
 
 During my education, I received training in C#, PHP, Java, Unity, and Photoshop. I have developed various applications in these fields and gained practical experience through real-world projects.
