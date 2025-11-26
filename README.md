@@ -2,8 +2,10 @@
 
 <p align='center'><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=K3tr0n%20%7C%20Yunus%20Emre&fontAlignY=40&desc=Backend%20Developer%20%7C%20C%2B%2B%2C%20Java%2C%20Python%2C%20PHP%2C%20C%23&descAlignY=70&animation=twinkling"/></p>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=ketronyun&color=blue" alt="profile views"/>
+<p align="center">
+  <img src="A_digital_image_in_programming_and_graphic_design_.png" width="100%"/>
+</p>
+
 </p>
 
 ---
