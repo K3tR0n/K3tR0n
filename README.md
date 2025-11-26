@@ -1,4 +1,3 @@
-# ketronyun
 <p align="center">
   <img src="A_digital_image_in_programming_and_graphic_design_.png" width="100%"/>
 </p>
