@@ -51,7 +51,7 @@ Currently, I am focusing on backend development and always seeking opportunities
 
 | Project | Description |
 |---------|-------------|
-| [YunusEmre](https://github.com/K3tr0n/YunusEmre) | My personal introduction profile |
+| [YunusEmre](https://github.com/K3tr0n) | My personal introduction profile |
 | [ForumSistemi](https://github.com/K3tr0n/ForumSistemi) | A basic PHP forum infrastructure |
 | [Outelsys](https://github.com/K3tr0n/Outelsys) | Card-based access system project |
 
