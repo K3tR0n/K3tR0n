@@ -35,8 +35,8 @@ Currently, I am focusing on backend development and always seeking opportunities
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketronyun&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketronyun&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=K3tR0n&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3tR0n&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
