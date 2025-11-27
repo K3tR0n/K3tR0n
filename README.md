@@ -43,7 +43,7 @@ Currently, I am focusing on backend development and always seeking opportunities
 
 ## 🔥 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ketronyun&theme=github-compact)](https://github.com/K3tr0n)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K3tR0n&theme=github-compact)](https://github.com/K3tr0n)
 
 ---
 
